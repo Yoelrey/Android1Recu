@@ -1,0 +1,7 @@
+D:\Proyectos Android\KawaiiCards\app\build\intermediates\classes\debug
+D:\Proyectos Android\KawaiiCards\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-395c6d66595e068ef08e09de341699ada4fd946a.jar
+D:\Proyectos Android\KawaiiCards\app\build\intermediates\pre-dexed\debug\classes-c1d1ad1f1a4d3ee7c2bad6cbd0f6257d5423c325.jar
+D:\Proyectos Android\KawaiiCards\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b69bba2b0d61db0795abe9182bd45e877fa10822.jar
+D:\Proyectos Android\KawaiiCards\app\build\intermediates\pre-dexed\debug\classes-7c1459f1c155d4abe67fad3907834e77d4a9954d.jar
+D:\Proyectos Android\KawaiiCards\app\build\intermediates\pre-dexed\debug\classes-95ea0ce0432d87481c7d1a9114a0bde1a3ff55a6.jar
+D:\Proyectos Android\KawaiiCards\app\build\intermediates\pre-dexed\debug\classes-fe302a2d5134108cd6ace1e2e663a3db5dd4495a.jar
